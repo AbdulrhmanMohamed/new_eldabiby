@@ -1,0 +1,32 @@
+export const productValues = {
+  title_en: "",
+  title_ar: "",
+  description_en: "",
+  description_ar: "",
+  priceBeforeDiscount: 1,
+  quantity: 0,
+  images: [],
+  paymentType: "",
+  keywords: [],
+  category: "",
+  subCategory: "",
+  deliveryType: "",
+  weight: 1,
+  qualities: [],
+  attributes: [],
+  qualitiesImages: [],
+  title_meta: "",
+  desc_meta: "",
+  link: "",
+  extention: "",
+  title: "",
+  message: "",
+  role: "",
+  receiver: "",
+};
+
+export const productQualityValues = {
+  key_en: "",
+  key_ar: "",
+  values: [],
+};
